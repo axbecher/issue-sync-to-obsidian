@@ -7,6 +7,7 @@ This simple Python utility pulls issues from a GitHub repository (including priv
 ## 📚 Table of Contents
 
 - [📁 Project Structure](#-project-structure)
+- [🖼️ Screenshots](#️-screenshots)
 - [⚙️ Setup](#️-setup)
 - [▶️ Usage](#️-usage)
 - [✅ Example Output](#-example-output)
@@ -32,6 +33,18 @@ issue-sync-to-obsidian/
     ├── main.py         # Main script: fetches issues, writes to Markdown
     └── test.py         # Verifies .env values and setup before running
 ```
+
+---
+
+## 🖼️ Screenshots
+
+### 📬 Issues in Github Repo Brwoser Preview
+Here’s an example of issues from github repo:
+![Github Repo in Browser alt text](assets/githubIssues.png)
+
+### ⚙️ Issues in Obsidian formated as Markdown
+This is how data formated as Markdown look in Obsidian:
+![Issues in Obsidian Formated as Markdown alt text](assets/obsidianFormatedIssues.png)
 
 ---
 
